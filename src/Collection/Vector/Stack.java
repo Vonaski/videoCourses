@@ -1,4 +1,4 @@
-package Collection.Vactor;
+package Collection.Vector;
 
 public class Stack {
     static void abc1() {
